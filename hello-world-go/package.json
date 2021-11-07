@@ -1,0 +1,20 @@
+{
+	"name": "Hello World GoLang",
+	"version": "1.0.0",
+	"description": "Hello world sample app written in GoLang",
+	"private": false,
+	"author": {
+		"name": "Waziup"
+	},
+	"license": "NA",
+	"waziapp": {
+		"icon": "ui/icon.png",
+		"menu": {
+			"HelloWorldGo": {
+				"primary": "Hello World Go",
+				"icon": "ui/menu-icon.svg",
+				"href": "#/apps/waziup.hello-world-go/ui/"
+			}
+		}
+	}
+}
